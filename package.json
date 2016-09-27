@@ -1,0 +1,11 @@
+{
+  "name": "dittoslash/knights",
+  "version": "0.0.1",
+  "description": "knights",
+  "main": "knights.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dittoslash",
+  "license:": "Lux License (LICENSE)"
+}
